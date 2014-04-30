@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<settings>
+		<setting type="bool" label="30000" id="restore_volume" default="true" />
+		<setting type="bool" label="30001" id="reset_track" default="false" />
+		<setting type="bool" label="30002" id="notify_on_resume" default="true" />
+</settings>
